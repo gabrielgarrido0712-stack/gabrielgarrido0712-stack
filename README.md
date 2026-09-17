@@ -6,26 +6,15 @@
 
 ## Minhas Habilidades
 
-Frant-end
+### 🎨 Front-End
+<img src="https://shields.io" alt="HTML5" /> <img src="https://shields.io" alt="CSS3" /> <img src="https://shields.io" alt="JavaScript" />
 
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
+### ⚙️ Back-End
+<img src="https://shields.io" alt="Python" /> <img src="https://shields.io" alt="SQL" /> <img src="https://shields.io" alt="C#" /> <img src="https://shields.io" alt="PHP" /> <img src="https://shields.io" alt="C" />
 
-Back-and
+### ☁️ Cloud & DevOps
+<img src="https://shields.io" alt="AWS" /> <img src="https://shields.io" alt="Azure" /> <img src="https://shields.io" alt="GCP" /> <img src="https://shields.io" alt="Docker" />
 
-**Utilidades**
-
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
-**DevOps**
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
 
 **Ferramentas de desenvolvimento**
 
