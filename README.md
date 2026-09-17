@@ -6,7 +6,7 @@ Sou apaixonado por dados, tecnologia e resolução de problemas. Meu objetivo é
 
 ## 🚀 Sobre mim
 
-- 🎓 Estudando Engenharia de Software
+- 🎓 Estudante de Engenharia de Software
 - 🌱 Aprendendo mais sobre Ciência de Dados
 - 🔎 Interessado em análise, exploração e visualização de dados
 - 🤖 Desenvolvendo conhecimentos em Machine Learning
@@ -41,7 +41,7 @@ Sou apaixonado por dados, tecnologia e resolução de problemas. Meu objetivo é
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 
 ## 🧰 Ferramentas de desenvolvimento
 
