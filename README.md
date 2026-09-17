@@ -76,6 +76,8 @@ Sou apaixonado por dados, tecnologia e resolução de problemas. Meu objetivo é
 ## 📫 Onde me encontrar
 
 [![GitHub](https://img.shields.io/badge/GitHub-gabrielgarrido0712--stack-181717?style=for-the-badge&logo=github)](https://github.com/gabrielgarrido0712-stack)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Garrido-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-garrido7/)
+[![Email](https://img.shields.io/badge/Email-gabrielgarrido0712%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielgarrido0712@gmail.com)
 
 ---
 
